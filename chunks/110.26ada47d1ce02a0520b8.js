@@ -1,0 +1,1 @@
+webpackJsonp([110],{617:function(n,e){n.exports="# badge.js\n\n`{ Badge }`\n\n## Badge\n\n红点提示&数字提示\n\n\n### API\n\n| props | 说明 | 类型 | 默认值 | 必需 | \n|:--|:--|:--|:--|:--|\n| text | 数字提示内容 | String 或 Number | 0 | |\n| overflowCount | 最大数字展示，超过则显示+ | Number | 99 | |\n| dot | 红点提示 | Boolean | false | |\n\n\n"}});

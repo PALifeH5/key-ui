@@ -1,0 +1,1 @@
+webpackJsonp([89],{638:function(n,e){n.exports="# progress.js\n\n`{ Progress }`\n\n## Progress\n\n进度条\n\n### API\n\n| props   | 说明         | 类型    | 默认值 | 必需 |\n| :------ | :----------- | :------ | :----- | :--- |\n| percent | 进度(范围在`[0,100]`的数字) | Number  | fasle  |      |\n| noTrace | 是否关闭轨迹 | Boolean | false  |      |\n"}});
