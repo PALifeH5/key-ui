@@ -1,1 +1,0 @@
-webpackJsonp([81],{646:function(n,o){n.exports="# toast.js\n\n`{ Toast }`\n\n## Toast\n\n弱提醒。\n\n### API\n\n| props | 说明 | 类型 | 默认值 | 必需 | \n|:--|:--|:--|:--|:--|\n| icon | 图标 | IconNode | | |\n| content | 内容 | ReactNode | | |\n| blockEvents | 是否阻挡底下的点击事件 | Boolean | true | |\n| duration | 显示时长（毫秒） | Number | 2000 | |\n| onHide | 变更回调 | () => {} | | |\n\n"}});

@@ -1,0 +1,1 @@
+webpackJsonp([85],{643:function(n,i){n.exports="# spinner.js\n\n`{ Spinner }`\n\n## Spinner\n\nLoading 图标。\n\n### API\n\n| props | 说明 | 类型 | 默认值 | 必需 | \n|:--|:--|:--|:--|:--|\n| src | Loading 图标路径 | String | spinner.svg | |\n\nSpinner 默认使用圆形 Loading 图标，如果需要更改图标可以通过自定义的 `src` 属性传递。\n\nSpinner 默认显示在屏幕中央，且阻挡底下的点击事件。\n\n\n\n"}});
