@@ -1,1 +1,0 @@
-webpackJsonp([103],{625:function(n,e){n.exports="# default-page.js\n\n`{ DefaultPage }`\n\n## DefaultPage\n\n空白页。\n\n### API\n\n| props | 说明 | 类型 | 默认值 | 必需 | \n|:--|:--|:--|:--|:--|\n| icon | 图标 | Node | | |\n| title | 标题 | Node | | |\n| content | 内容 | Node | | |\n| buttons | 按钮容器 | Node | | |"}});
