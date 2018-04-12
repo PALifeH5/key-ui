@@ -1,0 +1,1 @@
+webpackJsonp([86],{672:function(p,n){p.exports="# typography.js\n\n`{ typography }`\n\n## Typography\n\n文章排版。Typography 为 CSS 组件，因此其没有任何属性，需要为文章排版的只需要在根节点应用 `typography.root` 类名即可。\n\nTypography 会对子节点下的 `h1`, `h2`, `p`, `img` 等标签更改样式。\n"}});

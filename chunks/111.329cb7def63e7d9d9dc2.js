@@ -1,1 +1,0 @@
-webpackJsonp([111],{617:function(n,r){n.exports="# scaffolding.js\n\n`{ arrow, border }`\n\n## arrow\n\narrow 为 CSS 组件，里面包含了各个方向的箭头。\n\n### CSS className\n\n- `arrow.up`: 向上箭头\n- `arrow.down`: 向下箭头\n- `arrow.left`: 向左箭头\n- `arrow.right`: 向右箭头\n\n"}});

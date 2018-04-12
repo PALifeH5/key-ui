@@ -1,0 +1,1 @@
+webpackJsonp([119],{639:function(n,e){n.exports="# breadcrumb.js\n\n`{ Breadcrumb }`\n\n## Breadcrumb\n\n面包屑，常用于文件浏览器等的路径显示。\n\n\n### API\n\n| props | 说明 | 类型 | 默认值 | 必需 | \n|:--|:--|:--|:--|:--|\n| data | 层级数据 | \\[{ value: objectKeyProp, label: ReactNode }\\] | \\[\\] | |\n| value | 当前所在层级 | objectKeyProp | | |\n| onChange | 变更回调 | (objectKeyProp, Event) => {} | | |\n\n\n"}});
